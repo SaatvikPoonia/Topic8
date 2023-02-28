@@ -1,0 +1,16 @@
+{
+  "name": "topic8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "plot1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Saatvik",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "weather-js": "^2.0.0"
+  }
+}
